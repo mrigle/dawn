@@ -93,19 +93,11 @@
           "settings": {
             "text": "<p>Stress, anxiety or depression can make it difficult to fall asleep. And the worse we sleep, the more sensitive we are to them. A vicious circle that our busy lives unfortunately often lead us into. But don't worry, Zentary sleep aid device has the power to help you fall asleep quickly and effectively<br\/>in a few minutes and get the rest you need to feel ready for whatever life throws at you tomorrow.<\/p><p><br\/><br\/><br\/><br\/><br\/><br\/><\/p>"
           }
-        },
-        "a8ae2420-bf05-40f7-9393-871cdd0181e7": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Now",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "163208405655182a04-0",
-        "163208405655182a04-1",
-        "a8ae2420-bf05-40f7-9393-871cdd0181e7"
+        "163208405655182a04-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/4.png",
