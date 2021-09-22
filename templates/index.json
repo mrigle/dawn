@@ -34,12 +34,12 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/vladislav-muslakov-CwIU33KGToc-unsplash.jpg",
+        "image": "shopify:\/\/shop_images\/woman-sleeping-in-white-bed.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
+        "show_text_box": false,
         "image_overlay_opacity": 30,
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
