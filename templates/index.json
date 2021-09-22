@@ -59,20 +59,11 @@
           "settings": {
             "text": "<p>With Zentary , you can finally sleep better, relax and rest easy.<\/p>"
           }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "text"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -82,7 +73,7 @@
     "video": {
       "type": "video",
       "settings": {
-        "heading": "Video",
+        "heading": "You deserve a Good night’s sleep",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false
