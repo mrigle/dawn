@@ -215,16 +215,6 @@
         "hide_variants": false,
         "enable_video_looping": false
       }
-    },
-    "1632425283729bd631": {
-      "type": "video",
-      "settings": {
-        "heading": "Relaxes Your Brain with Zentary device",
-        "cover_image": "shopify:\/\/shop_images\/Zentary_7.png",
-        "video_url": "https:\/\/youtu.be\/qwDYGf2XKp8",
-        "description": "",
-        "full_width": false
-      }
     }
   },
   "order": [
@@ -233,7 +223,6 @@
     "video",
     "163208405655182a04",
     "multi_column",
-    "163208165696851ff1",
-    "1632425283729bd631"
+    "163208165696851ff1"
   ]
 }
