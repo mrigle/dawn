@@ -61,13 +61,6 @@
               "menu": "information"
             }
           },
-          "footer-1": {
-            "type": "text",
-            "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
-            }
-          },
           "7508312f-7810-40b5-aa2b-0b2250237f1d": {
             "type": "image",
             "settings": {
@@ -80,7 +73,6 @@
         "block_order": [
           "footer-0",
           "6fb55258-d594-4725-9832-cbb2aecdf54a",
-          "footer-1",
           "7508312f-7810-40b5-aa2b-0b2250237f1d"
         ],
         "settings": {
