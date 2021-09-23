@@ -61,11 +61,19 @@
               "heading": "INFORMATION",
               "menu": "information"
             }
+          },
+          "d15767a9-b68f-4c6e-bf30-474f7122d27f": {
+            "type": "text",
+            "settings": {
+              "heading": "Follow Us",
+              "subtext": "<p><strong>f <\/strong>facebook<\/p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
-          "6fb55258-d594-4725-9832-cbb2aecdf54a"
+          "6fb55258-d594-4725-9832-cbb2aecdf54a",
+          "d15767a9-b68f-4c6e-bf30-474f7122d27f"
         ],
         "settings": {
           "color_scheme": "background-1",
