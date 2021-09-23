@@ -67,12 +67,21 @@
               "heading": "Heading",
               "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
             }
+          },
+          "7508312f-7810-40b5-aa2b-0b2250237f1d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Zentary_6.png",
+              "image_width": 100,
+              "alignment": "center"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "6fb55258-d594-4725-9832-cbb2aecdf54a",
-          "footer-1"
+          "footer-1",
+          "7508312f-7810-40b5-aa2b-0b2250237f1d"
         ],
         "settings": {
           "color_scheme": "background-1",
