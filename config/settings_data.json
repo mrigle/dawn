@@ -61,34 +61,17 @@
               "heading": "INFORMATION",
               "menu": "information"
             }
-          },
-          "2f1198ce-c7f3-4faa-a522-4fc8e22f9a6c": {
-            "type": "text",
-            "settings": {
-              "heading": "Follow Us",
-              "subtext": "<p><strong>f<\/strong> <a href=\"https:\/\/www.facebook.com\/Zentary.SelfCare.Brand\/\" title=\"https:\/\/www.facebook.com\/Zentary.SelfCare.Brand\/\">facebook<\/a><\/p>"
-            }
-          },
-          "7508312f-7810-40b5-aa2b-0b2250237f1d": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Zentary_6.png",
-              "image_width": 100,
-              "alignment": "center"
-            }
           }
         },
         "block_order": [
           "footer-0",
-          "6fb55258-d594-4725-9832-cbb2aecdf54a",
-          "2f1198ce-c7f3-4faa-a522-4fc8e22f9a6c",
-          "7508312f-7810-40b5-aa2b-0b2250237f1d"
+          "6fb55258-d594-4725-9832-cbb2aecdf54a"
         ],
         "settings": {
           "color_scheme": "background-1",
-          "newsletter_enable": false,
+          "newsletter_enable": true,
           "newsletter_heading": "To receive these delightful offers, enter your email address.",
-          "show_social": true,
+          "show_social": false,
           "enable_country_selector": true,
           "enable_language_selector": true,
           "payment_enable": true
