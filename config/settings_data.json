@@ -68,12 +68,21 @@
               "heading": "Follow Us",
               "subtext": "<p><strong>f <\/strong><a href=\"https:\/\/www.facebook.com\/Zentary.SelfCare.Brand\/\" title=\" \">facebook <\/a><\/p>"
             }
+          },
+          "019c8f40-fccb-42fb-9784-07b9fa36f579": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Zentary_6.png",
+              "image_width": 170,
+              "alignment": "center"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "6fb55258-d594-4725-9832-cbb2aecdf54a",
-          "d15767a9-b68f-4c6e-bf30-474f7122d27f"
+          "d15767a9-b68f-4c6e-bf30-474f7122d27f",
+          "019c8f40-fccb-42fb-9784-07b9fa36f579"
         ],
         "settings": {
           "color_scheme": "background-1",
