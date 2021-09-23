@@ -1,7 +1,35 @@
 {
   "sections": {
     "main": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "163242558117aac184": {
+      "type": "rich-text",
+      "blocks": {
+        "163242558117aac184-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "163242558117aac184-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For any question regarding our products or for assistance with your order, we are here to help. We love hearing from our customers. <\/p><p>Please let us know how we can help you by sending us a message through the contact form below.<\/p><p> <strong>Thank you for your confidence.<\/strong><br\/><br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163242558117aac184-0",
+        "163242558117aac184-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     },
     "form": {
       "type": "contact-form",
@@ -12,6 +40,7 @@
   },
   "order": [
     "main",
+    "163242558117aac184",
     "form"
   ]
 }
