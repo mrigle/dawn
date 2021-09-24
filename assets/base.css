@@ -293,6 +293,10 @@ body,
   display: none !important;
 }
 
+.ql-align-justify, .shopify-policy__body {
+  text-align: justify;
+}
+
 .visually-hidden {
   position: absolute !important;
   overflow: hidden;
